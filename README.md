@@ -1,4 +1,4 @@
-# Get_Azure_Resources_Information_Using_Azure-Profile
+# Get_Azure_Resources_Information_Using_Azure-Profile without login prompt
 #Description - Get the list of resourced under a selected resource group or all resource group without login prompt
 #Author - Rakesh Sharma
 
