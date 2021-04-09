@@ -1,0 +1,1 @@
+# Get_Azure_Resources_Information_Using_Azure-Profile
