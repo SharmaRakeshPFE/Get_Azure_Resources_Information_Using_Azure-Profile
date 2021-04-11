@@ -22,7 +22,7 @@ function Show-Menu
      cls
      Write-Host "================ $Title ================"
     
-     Write-Host "1: Press '1' for Virtual Machines option."
+     Write-Host "1: Press '1' for Virtual Machine."
      Write-Host "2: Press '2' Databases."
      Write-Host "Q: Press 'Q' to quit."
 }
